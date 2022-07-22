@@ -10,4 +10,5 @@
 - 💬 Ask me about what I am currently working on.
 - ⚡ Fun fact: <span style="color:pink"> **_My life runs on COFFEE!_** </span>
 
-## ✌️
+## “A goal without a plan is just a wish.” ~ Antoine de Saint-Exupéry
+### Did you make your plan?
