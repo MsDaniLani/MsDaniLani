@@ -2,7 +2,7 @@
 
 # Hi there 👋
 ## *Welcome to my GitHub.*
-### My name is Danielle. Most people just call me Dani.
+### My name is Danielle but most people just call me Dani.
 
 - 🎓 I’m currently working on my Bachelor of Science in Data Management/Data Analytics 
 - 📔 I’m currently learning too many things to list but SQL is by far my favorite at the moment.
