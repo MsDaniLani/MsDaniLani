@@ -6,5 +6,6 @@
 
 - 🔭 I’m currently working on my Bachelor of Science in Data Management/Data Analytics 
 - 🌱 I’m currently learning too many things to list but SQL is by far my favorite at this moment.
-- 💬 Ask me about ...
-- ⚡ Fun fact: <span style="color:pink"> **_My life runs on COFFEE!_** text</span>
+- 👯 I’m not looking to collaborate on anything particular at the moment so I can focus on my studies.
+- 💬 Ask me about what I am currently working on.
+- ⚡ Fun fact: <span style="color:pink"> **_My life runs on COFFEE!_** </span>
