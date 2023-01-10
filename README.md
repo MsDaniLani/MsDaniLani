@@ -13,3 +13,5 @@
 - ⚡ Fun fact: <span style="color:pink"> **_My life runs on COFFEE! :coffee:_** </span>
 
 *“A goal without a plan is just a wish.” ~ Antoine de Saint-Exupéry*
+
+![R](https://images.credly.com/size/150x150/images/dac352d2-7755-4178-a4a4-b67a1a3f7aca/CompTIA_Project_2B.png)
