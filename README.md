@@ -6,7 +6,7 @@
 ## *Welcome to my GitHub.*
 ### My name is Danielle but most people just call me Dani.
 
-- 🎓 I’m currently working on my Bachelor of Science in Data Management/Data Analytics 
+- 🎓 I’m currently pursuing my Bachelor of Science in Data Management and Data Analytics. 
 - 📔 I’m currently learning too many things to list but SQL is by far my favorite at the moment.
 - 👯 I’m not currently looking to collaborate on anything particular so I can focus on my studies.
 - 💬 Ask me about what I am currently working on.
