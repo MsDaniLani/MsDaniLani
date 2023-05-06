@@ -4,13 +4,13 @@
 
 # Hi there 👋
 ## *Welcome to my GitHub.*
-### My name is Danielle but most people just call me Dani.
+### My name is Danielle, but you can call me Dani.
 
-- 🎓 I’m currently pursuing my Bachelor of Science in Data Management and Data Analytics. 
-- 📔 I’m currently learning too many things to list but SQL is by far my favorite at the moment.
-- 👯 I’m not currently looking to collaborate on anything particular so I can focus on my studies.
-- 💬 Ask me about what I am currently working on.
-- ⚡ Fun fact: <span style="color:pink"> **_My life runs on COFFEE! :coffee:_** </span>
+- 🎓 I'm currently pursuing a Bachelor of Science in Data Management and Data Analytics.
+- 📔 I'm currently enjoying working with SQL and Python the most.
+- 👯 I'm not actively seeking collaborations at the moment as I'm focusing on my studies.
+- 💬 Feel free to ask me about what I'm currently working on.
+- ⚡ Fun fact: My life runs on **COFFEE**! :coffee:
 
 *“A goal without a plan is just a wish.” ~ Antoine de Saint-Exupéry*
 
