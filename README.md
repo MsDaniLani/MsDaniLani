@@ -8,7 +8,6 @@
 
 - 🎓 I'm currently pursuing a Bachelor of Science in Data Management and Data Analytics.
 - 📔 I'm currently enjoying working with SQL and Python the most.
-- 👯 I'm not actively seeking collaborations at the moment as I'm focusing on my studies.
 - 💬 Feel free to ask me about what I'm currently working on.
 - ⚡ Fun fact: My life runs on **COFFEE**! :coffee:
 
