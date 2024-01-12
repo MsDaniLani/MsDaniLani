@@ -16,3 +16,9 @@
 ![R](https://images.credly.com/size/150x150/images/dac352d2-7755-4178-a4a4-b67a1a3f7aca/CompTIA_Project_2B.png)
 
 CompTIA Project+ Certified
+
+![R](https://images.credly.com/size/150x150/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png)
+
+AXELOS ITIL v4 Foundation
+
+
